@@ -1,0 +1,4 @@
+PORT=3030
+HOST="3.107.158.240"
+SESS_KEY = 'session'
+SESS_SECRET = 'Da(3i#4z=7EFn!q'
