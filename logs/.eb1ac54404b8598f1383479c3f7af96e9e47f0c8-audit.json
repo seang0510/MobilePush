@@ -1,0 +1,29 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/doall/Documents/GitHub/PushServer/logs/.eb1ac54404b8598f1383479c3f7af96e9e47f0c8-audit.json",
+    "files": [
+        {
+            "date": 1729822378057,
+            "name": "/Users/doall/Documents/GitHub/PushServer/logs/2024-10-25.error.log",
+            "hash": "1abd0ff22198f8ae1f1c37c2688d96e9"
+        },
+        {
+            "date": 1730099535205,
+            "name": "/Users/doall/Documents/GitHub/PushServer/logs/2024-10-28.error.log",
+            "hash": "997f907b183355174e5277c700cb2acd"
+        },
+        {
+            "date": 1730163282848,
+            "name": "/Users/doall/Documents/GitHub/PushServer/logs/2024-10-29.error.log",
+            "hash": "02ff7ee66beb6a73ba0693fbe72b9573"
+        },
+        {
+            "date": 1730263923424,
+            "name": "/Users/doall/Documents/GitHub/PushServer/logs/2024-10-30.error.log",
+            "hash": "ab434e002b5359e75942fc08d2417933"
+        }
+    ]
+}
