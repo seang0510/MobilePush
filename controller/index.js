@@ -11,6 +11,8 @@ fcm.initializeApp({
 
 
 exports.coadmasterMobilePush = async (req, res, next) => {
+    console.log('coadmasterMobilePush: ');
+
     let resModel;
     const token = req.body.token;
     const title = req.body.title;
